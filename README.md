@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Tracy! 👋
 
+<!-- Animated Typing SVG -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=f5ca3d&width=520&lines=AI+Programmer+%7C+Storyteller;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
 ## 👩‍💻 About Me
 - 🔭 I’m currently working as an **AI Programmer**.
 - 🛠️ Building a large-scale system to search short reads by similarity using our embedding model.
@@ -42,4 +47,9 @@ Here are some ideas to get you started:
 
 ---
 
-> “一以貫之的努力，不得懈怠的人生。每天的微小積累會決定最終結果，這就是答案。” 
+> “一以貫之的努力，不得懈怠的人生。每天的微小積累會決定最終結果，這就是答案。”
+
+
+
+
+
