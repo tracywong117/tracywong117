@@ -1,18 +1,3 @@
-<!--
-**tracywong117/tracywong117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Tracy! 👋
 
 <!-- Animated Typing SVG -->
@@ -24,11 +9,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as an **AI Programmer**.
 - 🛠️ Building a large-scale system to search short reads by similarity using our embedding model.
 - 📈 Interested in **quantitative trading**.
-- 📝 I **love writing stories**—uploaded on [lofter](https://wumingshi73800.lofter.com/)!
+- 📝 I **love writing stories**—uploaded on xxx!
 
 ## 🛠️ Skills
 **Programming Languages:**  
-`Python` | `C/C++` | `JavaScript`
+`Python` | `C/C++` | `JavaScript/TypeScript`
 
 **AI Libraries:**  
 `PyTorch` | `HuggingFace` | `TensorFlow` | `scikit-learn` | `spaCy` | `OpenCV`
@@ -42,8 +27,9 @@ Here are some ideas to get you started:
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tracywong117&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracywong117&layout=compact&hide_title=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tracywong117&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tracywong117&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tracywong117&theme=nightowl)
 
 ---
 
