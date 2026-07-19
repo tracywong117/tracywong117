@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as an **AI Programmer**.
 - 🛠️ Building a large-scale system to search short reads by similarity using our embedding model.
 - 📈 Interested in **quantitative trading**.
-- 📝 I **love writing stories**—uploaded on xxx!
+- 📝 I **love writing stories**!
 
 ## 🛠️ Skills
 **Programming Languages:**  
